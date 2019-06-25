@@ -38,8 +38,13 @@ footer {
     background-color: black;
     color: azure;
     text-align: center;
+    height: 200px;
 }
-.fa {
-    padding: 20px;
-    font-size: 5vh;
+.icon {
+    margin-top: 50px;
+    font-size: 50px;
+    margin-left: 20px;
+}
+#copy-right {
+    margin-top: 20px;
 }
