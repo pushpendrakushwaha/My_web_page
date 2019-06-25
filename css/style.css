@@ -1,0 +1,45 @@
+nav li {
+    font-size: 3vh;
+    font-family: sans-serif;
+    display: inline;
+    float: left;
+}
+nav li:hover {
+    color: rgb(62, 70, 139);
+}
+header img {
+    height: 150px;
+    width: 250px;
+}
+header {
+    background-color: darkseagreen;
+}
+
+.wrap {
+   /* background-image: url(../img/plain_color_orange.jpg); */
+   
+   overflow: hidden;
+}
+.schedule {
+    background-color: blanchedalmond;
+}
+.schedule li {
+    list-style: none;
+    padding-bottom: 20px;
+}
+aside {
+    background-color: bisque;
+}
+.main {
+    padding-top: 50px;
+    overflow: hidden;
+}
+footer {
+    background-color: black;
+    color: azure;
+    text-align: center;
+}
+.fa {
+    padding: 20px;
+    font-size: 5vh;
+}
